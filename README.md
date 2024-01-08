@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GRGong
-- 👀 I’m interested in Genomics, Evolution and Sex determination.
+- 👀 
 
 
 <!---
